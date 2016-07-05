@@ -1,0 +1,2 @@
+CountyCityName,TownshipName,VillageName,PollStationNo,DistrictName,BallotsAccepted,BallotsRejected,BallotsCast,Voters,CandidateCounts,ElectedCounts,CandidateMaleCounts,CandidateFemaleCounts,ElectedMaleCounts,ElectedFemaleCounts,BallotsRate
+臺灣省,,,0,0,71018,2601,73619,116398,5,2,4,1,2,0,63.25

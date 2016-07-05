@@ -1,0 +1,4 @@
+CountyCityName,TownshipName,VillageName,PollStationNo,DistrictName,DrawNo,VoteCounts,VoteRate,CandidateName,EndorsementPartyName,Gender,IsIncumbent,Elected
+臺灣省,,,0,0,1,8806,39.98,林昌榮,無,1,N,
+臺灣省,,,0,0,2,1561,7.09,胡德夫,無,1,N,
+臺灣省,,,0,0,3,11661,52.94,林正二,中國國民黨,1,N,T

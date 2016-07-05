@@ -1,0 +1,2 @@
+CountyCityName,TownshipName,VillageName,PollStationNo,DistrictName,BallotsAccepted,BallotsRejected,BallotsCast,Voters,CandidateCounts,ElectedCounts,CandidateMaleCounts,CandidateFemaleCounts,ElectedMaleCounts,ElectedFemaleCounts,BallotsRate
+全國,,,0,0,65145,2168,67313,111125,7,3,7,0,3,0,60.57

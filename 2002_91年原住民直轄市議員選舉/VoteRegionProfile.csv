@@ -1,0 +1,4 @@
+CountyCityName,TownshipName,VillageName,PollStationNo,DistrictName,BallotsAccepted,BallotsRejected,BallotsCast,Voters,CandidateCounts,ElectedCounts,CandidateMaleCounts,CandidateFemaleCounts,ElectedMaleCounts,ElectedFemaleCounts,BallotsRate
+全國,,,0,0,7114,149,7263,11417,12,2,9,3,2,0,63.62
+臺北市,,,0,0,3921,93,4014,6284,4,1,2,2,1,0,63.88
+高雄市,,,0,0,3193,56,3249,5133,8,1,7,1,1,0,63.30

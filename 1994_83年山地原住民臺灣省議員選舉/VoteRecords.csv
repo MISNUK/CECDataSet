@@ -1,0 +1,6 @@
+CountyCityName,TownshipName,VillageName,PollStationNo,DistrictName,DrawNo,VoteCounts,VoteRate,CandidateName,EndorsementPartyName,Gender,IsIncumbent,Elected
+臺灣省,,,0,0,1,1122,1.58,林福喜,無,1,N,
+臺灣省,,,0,0,2,3197,4.50,黃金英,無,1,N,
+臺灣省,,,0,0,3,7180,10.11,古春玉,民主進步黨,2,N,
+臺灣省,,,0,0,4,31648,44.56,林春德,中國國民黨,1,Y,T
+臺灣省,,,0,0,5,27871,39.24,曾華德,中國國民黨,1,Y,T
